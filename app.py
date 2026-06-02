@@ -1,3 +1,3 @@
-print("hello-world")
+xprint("hello-world")
 print("git-happened")
 
