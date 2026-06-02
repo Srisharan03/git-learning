@@ -1,4 +1,4 @@
 print("hello-world")
 print("git-happened")
 
-print("feature-dashboard")
+print("feature-dashboard && feature-login")
